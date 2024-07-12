@@ -45,11 +45,12 @@ button {
     font-size: 16px;
     border: none;
     border-radius: 5px;
-    background-color: #007bff;
+    background-color: #6d0088;
     color: #fff;
     cursor: pointer;
+    width: 71%;
 }
 
 button:hover {
-    background-color: #0056b3;
+    background-color: #df0000;
 }
