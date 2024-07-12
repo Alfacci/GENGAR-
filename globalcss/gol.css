@@ -1,11 +1,10 @@
 * {
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
+    padding: auto;
+    margin: auto;
   }
   
   :root {
-    --text: #EDF1F7;
+    --white: #EDF1F7;
     --red: #C51212;
     --blue: #0041C2;
     --green: #14B02D;
